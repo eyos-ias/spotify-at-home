@@ -1,13 +1,6 @@
-# Project Lyrics
+# The Spotify at Home
 
-Develop an elegant React.js Music Application. 
-
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
-
-# Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+An elegant React.js Music Application. 
 
 
 ## System Requirements
@@ -57,7 +50,7 @@ To set up a development environment, please follow these steps:
 2. Change directory to the project directory
 
     ```shell
-    cd project1_team4_repository
+    cd spotify-at-home
     ```
 
 3. Install the dependencies
